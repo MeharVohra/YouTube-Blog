@@ -1,2 +1,2 @@
 # put your secret key here
-my_sk = "sk-"
+my_sk = "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"
